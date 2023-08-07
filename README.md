@@ -13,8 +13,14 @@ Trouble to understand some basic notion, find hier all the notion i have trouble
   **srcs:**
   [Comprendre la notation Big O en 7 minutes](https://www.jesuisundev.com/comprendre-la-notation-big-o-en-7-minutes/)
 
-## Decursivity:
+## Recursivity:
 - *`Recursion` is when a function calls itself until it reaches a stop condition.*
 
   **srcs:**
   [Comprendre la récursivité en 7 min](https://www.jesuisundev.com/comprendre-la-recursivite-en-7-min/)
+
+## Sorting algorithme
+- *`sorting algorithm` is an algorithm that puts elements of a list into an order. The most frequently used orders are numerical order and lexicographical order, and either ascending or descending.*
+
+  **srcs:**
+  [Comprendre les algorithmes de tri en 7 minutes](https://www.jesuisundev.com/comprendre-les-algorithmes-de-tri-en-7-minutes/)
