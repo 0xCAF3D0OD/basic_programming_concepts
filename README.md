@@ -5,7 +5,10 @@ Trouble to understand some basic notion, find hier all the notion i have trouble
 - *`Data structures` are different ways of organising data in your code.*
 
   **srcs:**
-  [comprendre les structures de donnees lineaires en 10 minutes](https://www.jesuisundev.com/comprendre-les-structures-de-donnees-lineaires-en-10-minutes/)
+  
+  - [Comprendre les structures de donnees lineaires en 10 minutes](https://www.jesuisundev.com/comprendre-les-structures-de-donnees-lineaires-en-10-minutes/)
+  
+  - [Comprendre les structures de donnees non lineaires en 5 minutes](https://www.jesuisundev.com/comprendre-les-structures-de-donnees-non-lineaires-en-5-minutes/)
 
 ## Big O notation:
 - *`The Big O notation` (or algorithmic complexity) is a standard way of measuring the performance of an algorithm. It's a mathematical way of judging the efficiency of your code.*
