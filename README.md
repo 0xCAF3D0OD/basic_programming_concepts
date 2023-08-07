@@ -3,6 +3,9 @@ Trouble to understand some basic notion, find hier all the notion i have trouble
 
 ## Data structures:
 - *`Data structures` are different ways of organising data in your code.*
+  - On the `linear side`, **the data is organised sequentially**. In an array, for example, each element of the array comes one after the other. This is easy to implement and you can consult all the elements in one go (a loop).
+
+  - On the `non-linear side`, **the data is not organised sequentially**. You will have hierarchical links, or simply special links, linking the elements that make up the structure. You won't be able to go through all the data in a loop, and that's not the point anyway.
 
   **srcs:**
   
